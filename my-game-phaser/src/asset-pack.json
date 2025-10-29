@@ -1,0 +1,38 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "images/black_spaceship.png",
+                "type": "image",
+                "key": "black_spaceship"
+            },
+            {
+                "url": "src/index.html",
+                "type": "html",
+                "key": "index"
+            },
+            {
+                "url": "src/main.js",
+                "type": "sceneFile",
+                "key": "main"
+            },
+            {
+                "url": "images/spaceship.jpeg",
+                "type": "image",
+                "key": "spaceship"
+            },
+            {
+                "url": "images/texture.jpg",
+                "type": "image",
+                "key": "texture"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

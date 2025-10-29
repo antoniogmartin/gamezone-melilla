@@ -1,0 +1,19 @@
+{
+  "name": "my-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.90.0",
+    "phaser3": "^0.4.34"
+  },
+  "devDependencies": {
+    "phasereditor2d-launcher": "^3.67.0"
+  }
+}
